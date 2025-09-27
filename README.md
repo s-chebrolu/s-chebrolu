@@ -24,7 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=s-chebrolu&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
   
   ### 🔝 Top Contributed Repo
-  ![](https://github-contributor-stats.vercel.app/api?username=s-schebrolu&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+  ![](https://github-contributor-stats.vercel.app/api?username=s-chebrolu&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
 </div>
 
