@@ -1,4 +1,4 @@
-![Header](porsche-car.gif)
+![Header](github_home.gif)
 
 <h2 align="center" style="color:#ffcba4;">Hey there! My name is Shanmukh and I am an AI Enthusiast.</h2>
 
